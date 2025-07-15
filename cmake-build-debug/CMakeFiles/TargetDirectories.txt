@@ -1,0 +1,3 @@
+C:/Users/nikla/CodingProjekte/CodeOfAdvent/cmake-build-debug/CMakeFiles/CodeOfAdvent.dir
+C:/Users/nikla/CodingProjekte/CodeOfAdvent/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nikla/CodingProjekte/CodeOfAdvent/cmake-build-debug/CMakeFiles/rebuild_cache.dir
