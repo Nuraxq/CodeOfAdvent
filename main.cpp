@@ -1,7 +1,10 @@
 #include <iostream>
+#include <vector>
+#include <fstream>
+#include "Task_one.h"
 
 int main()
 {
-    std::cout << "Hello, World!" << std::endl;
-    return 0;
+    Task_one task;
+    task.solve();
 }

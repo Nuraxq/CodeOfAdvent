@@ -9,7 +9,7 @@
 					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
 					{
-						"string" : "3.31"
+						"string" : "3.30.5"
 					},
 					"projectIndex" : 0,
 					"source" : ".",
@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "CodeOfAdvent::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-CodeOfAdvent-Debug-73e38820345dafe31333.json",
+					"jsonFile" : "target-CodeOfAdvent-Debug-e52044c35915b9c42b76.json",
 					"name" : "CodeOfAdvent",
 					"projectIndex" : 0
 				}
