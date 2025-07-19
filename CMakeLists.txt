@@ -7,6 +7,6 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 add_executable(CodeOfAdvent
         main.cpp
         Task_one.cpp
-        cmake-build-debug/Task_two.cpp
-        cmake-build-debug/Task_two.h
+        Task_two.cpp
+        Task_two.h
 )

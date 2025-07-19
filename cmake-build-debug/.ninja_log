@@ -1,7 +1,8 @@
 # ninja log v6
-14	1829	7744503033703415	CMakeFiles/CodeOfAdvent.dir/main.cpp.obj	dd95140b111420cb
-11	2271	7744505215144674	CMakeFiles/CodeOfAdvent.dir/Task_one.cpp.obj	32f8c238d44089e9
-2272	2472	7744505237754647	CodeOfAdvent.exe	ce8e9f043d665cd
 14	150	7744585030398833	CMakeFiles/CodeOfAdvent.dir/Task_two.cpp.obj	3fc0c4277a87788c
 8	1152	7744585030328790	CMakeFiles/CodeOfAdvent.dir/main.cpp.obj	dd95140b111420cb
+11	2271	7744505215144674	CMakeFiles/CodeOfAdvent.dir/Task_one.cpp.obj	32f8c238d44089e9
 1152	1328	7744585041778788	CodeOfAdvent.exe	a2d26a5b48de3d7c
+5	355	7746458561198723	build.ninja	83e4b985fe49358d
+9	181	7746458561748701	CMakeFiles/CodeOfAdvent.dir/Task_two.cpp.obj	ec615ab5f8a83882
+182	740	7746458563479787	CodeOfAdvent.exe	a2d26a5b48de3d7c

@@ -61,7 +61,7 @@ build CMakeFiles/CodeOfAdvent.dir/Task_one.cpp.obj: CXX_COMPILER__CodeOfAdvent_u
   OBJECT_DIR = CMakeFiles\CodeOfAdvent.dir
   OBJECT_FILE_DIR = CMakeFiles\CodeOfAdvent.dir
 
-build CMakeFiles/CodeOfAdvent.dir/Task_two.cpp.obj: CXX_COMPILER__CodeOfAdvent_unscanned_Debug C$:/Users/nikla/CodingProjekte/CodeOfAdvent/cmake-build-debug/Task_two.cpp || cmake_object_order_depends_target_CodeOfAdvent
+build CMakeFiles/CodeOfAdvent.dir/Task_two.cpp.obj: CXX_COMPILER__CodeOfAdvent_unscanned_Debug C$:/Users/nikla/CodingProjekte/CodeOfAdvent/Task_two.cpp || cmake_object_order_depends_target_CodeOfAdvent
   DEP_FILE = CMakeFiles\CodeOfAdvent.dir\Task_two.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\CodeOfAdvent.dir
